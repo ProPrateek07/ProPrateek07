@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ProPrateek07@gmail.com](mailto:ProPrateek07@gmail.com)
-* 💫  I'm learning Mern Stack Development
+* 💫   I'm learning Mern Stack Development
 * 🧠  I'm learning Cloud Computing
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
